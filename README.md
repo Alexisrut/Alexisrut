@@ -7,7 +7,7 @@
 ## My activity
 * Работаю в [проекте](https://challenge.school.msu.ru/esg)
 * Учусь в [Университетской гимназия при МГУ](https://school.msu.ru/)
-* Учусь Bacc-end разработке и анализу данных, а также использованию API
+* Учусь Back-end разработке и анализу данных, а также использованию API
 
 <div id="header" align="center">
   <h3>Skillset</h3>
