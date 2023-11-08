@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <hl>Hi there, I'm Alexander👋</h1>
+  <h3>Hi there, I'm Alexander👋</h3>
 </div>
 
 Начинающий разработчик и аналитик, учащийся Университетской гимназии МГУ
@@ -10,7 +10,7 @@
 * Учусь Bacc-end разработке и анализу данных, а также использованию API
 
 <div id="header" align="center">
-  <hl>Skillset</h1>
+  <h3>Skillset</h3>
 </div>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -22,14 +22,14 @@
 </p>
 
 <div id="header" align="center">
-  <hl>Contact me</h1>
+  <h3>Contact me</h3>
 </div>
 
 <p align='center'>
-   <a href="https://t.me/aturchk">
+   <a href="https://t.me/Chuvpilo_Alexander">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-  <a href="https://vk.com/agaleev2017">
+  <a href="[https://vk.com/agaleev2017](https://vk.com/id539139404)">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
    </a>
 <p align='center'>
