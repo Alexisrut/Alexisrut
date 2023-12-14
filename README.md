@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3>Hi there, I'm Alexander👋</h3>
+  <h1>Hi there, I'm Alexander👋</h1>
 </div>
 
 Начинающий разработчик и аналитик, учащийся Университетской гимназии МГУ
