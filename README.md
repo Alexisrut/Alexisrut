@@ -31,7 +31,7 @@
    <a href="https://t.me/Chuvpilo_Alexander">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-  <a href="[https://vk.com/agaleev2017](https://vk.com/id539139404)">
+  <a href="([https://vk.com/id539139404](https://vk.com/id539139404))">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
    </a>
 <p align='center'>
