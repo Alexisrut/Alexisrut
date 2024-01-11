@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Novice developer and analyst, studying the University Gymnasium of Moscow State University</p>
+  <p>Novice developer and analyst, studying at University Gymnasium of Moscow State University</p>
 </div>
 
 ## My activity
