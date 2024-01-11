@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <p>Начинающий разработчик и аналитик, учащийся Университетской гимназии МГУ</p>
+  <p>Novice developer and analyst, studying the University Gymnasium of Moscow State University</p>
 </div>
 
 ## My activity
-* Работаю в [проекте](https://challenge.school.msu.ru/esg)
-* Учусь в [Университетской гимназия при МГУ](https://school.msu.ru/)
-* Учусь Back-end, Front-end разработке и анализу данных, использованию API
+* I'm working in [project](https://challenge.school.msu.ru/esg)
+* I'm studing in [University Gymnasium of Moscow State University](https://school.msu.ru/)
+* I'm learning Back-end, Front-end development, data analysis, and using API.
 
 <div id="header" align="center">
   <h3>Skillset</h3>
