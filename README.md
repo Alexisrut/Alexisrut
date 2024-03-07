@@ -9,7 +9,7 @@
 ## My activity
 * I'm working in [project](https://challenge.school.msu.ru/esg)
 * I'm studing in [University Gymnasium of Moscow State University](https://school.msu.ru/)
-* I'm learning Back-end, Front-end development, data analysis, and using API.
+* I'm learning Front-end development, data analysis, and using API.
 
 <div id="header" align="center">
   <h3>Skillset</h3>
