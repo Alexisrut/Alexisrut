@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/JavaScript-2C2D72?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/HTML-109989?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-109989?style=for-the-badge&logo=csswizardry&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=csswizardry&logoColor=white"/>
 </p>
 
 <div id="header" align="center">
