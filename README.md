@@ -2,10 +2,6 @@
   <h1>Hi there, I'm Alexander👋</h1>
 </div>
 
-<div align="center">
-  <p>Novice developer and analyst, studying at University Gymnasium of Moscow State University</p>
-</div>
-
 ## My activity
 * I'm working in [project](https://challenge.school.msu.ru/esg)
 * I'm studing in [University Gymnasium of Moscow State University](https://school.msu.ru/)
@@ -36,13 +32,8 @@
    </a>
 </p>
 
-<p align='center'>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisRut&theme=github_dark)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisRut&theme=github_dark)
 
-<p align='center'>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexisRut&theme=github_dark)
-</p>
-<p align='center'>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexisRut&theme=github_dark)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexisRut&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexisRut&theme=github_dark)
