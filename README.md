@@ -32,7 +32,7 @@
    </a>
 </p>
 
-‹div id="stat" align="center">
+<div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisRut&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexisRut&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexisRut&theme=github_dark"/>
