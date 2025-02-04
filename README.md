@@ -35,3 +35,6 @@
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
    </a>
 <p align='center'>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisRut&theme=github_dark)
